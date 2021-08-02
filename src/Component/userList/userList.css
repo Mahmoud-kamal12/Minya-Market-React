@@ -1,0 +1,52 @@
+.userList{
+    flex: 6.5;
+   
+}
+.UserListuser{
+    display: flex;
+    align-items: center;
+}
+.UserListImg{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+.BtnListEdit{
+    width: 100px;
+    border: none;
+    background-color: cadetblue;
+    height: 35px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.BtnListDelete{
+width: 32px;
+height: 32px;
+color: rgb(139, 21, 21);
+cursor: pointer;
+}
+
+.form-controller{
+    display: block !important;
+    width: 30% !important;
+    padding: .375rem .75rem !important;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    background-color: rgb(199, 6, 6) !important;
+    background-clip: padding-box !important;
+    border: 1px solid #1566b8 !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    border-radius: .25rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+}
+.dd{
+    display: ;
+}
